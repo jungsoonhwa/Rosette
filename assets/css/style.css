@@ -4418,9 +4418,7 @@ span.type::after {
         width:150px;
     }
     .sc-card-product .meta-info .info h6 {
-        overflow:hidden;
-        text-overflow: ellipsis;
-        white-space: nowrap;
+        
         width: calc(100% - 78px);
     }
    
